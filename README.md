@@ -1,8 +1,8 @@
 # PageRank algorithm to rank academic journals in a network of journals
 
-links.txt - journal-citation file
-PS2_IMT574_Spring2019 - Documentation for PageRank
-srinivas_ashwin_PS2.ipynb - Jupyter Notebook file with the analysis
+###### links.txt - journal-citation file
+###### PS2_IMT574_Spring2019 - Documentation for PageRank
+###### srinivas_ashwin_PS2.ipynb - Jupyter Notebook file with the analysis
 
 This project contains the implementation of PageRank algorithm to rank academic journals in a network of journals to determine the top "most influential" journals.
 The journals are ranked on the basis of their importance in the journal-citation file (links.txt)
